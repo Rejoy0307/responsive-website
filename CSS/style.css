@@ -93,3 +93,52 @@ a {
   border-color: #1890ff;
   background: #1890ff;
 }
+
+.main-body-1 {
+  background-color: #d5eff7;
+  margin: 0 20px 20px;
+  border-radius: 0 0 10px 10px;
+}
+
+.main-body-intro {
+  margin-top: 40px;
+}
+
+.md-left-header {
+  font-weight: 700;
+  font-size: 2.625rem;
+  line-height: 1.21;
+  margin-top: 40px;
+}
+
+.left-header-desc {
+  color: #4a4a4a;
+  font-weight: 500;
+  line-height: 1.8;
+  margin-top: 20px;
+}
+
+.unorder-list {
+  text-decoration: none;
+  display: flex;
+  gap: 5px;
+}
+
+.unorder-list-cont {
+  margin-top: 15px;
+}
+
+.ls-left {
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+.left-body-button {
+  margin: 20px 0px 0px;
+  display: flex;
+  align-items: center;
+}
+
+.main-body-right {
+  margin-bottom: 20px;
+}
