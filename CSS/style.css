@@ -78,7 +78,7 @@ a {
   padding: 0 20px;
   height: 56px;
   border-radius: 5px;
-  line-height: 1;
+  justify-content: center;
   font-weight: 700;
   font-size: 11px;
   display: flex;
@@ -141,4 +141,38 @@ a {
 
 .main-body-right {
   margin-bottom: 20px;
+}
+
+.main-body-2 {
+  margin-top: 60px;
+}
+
+.challenge-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+  justify-content: space-between;
+}
+
+.challenge-left {
+  font-size: 1.625rem;
+  font-weight: 700;
+}
+
+.challenge-right {
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.atag {
+  color: #4a4a4a;
+}
+
+.atag:hover {
+  color: #4a4a4a;
+}
+
+.challenge-cards {
+  margin-top: 15px;
+  padding: 0px 15px;
 }
