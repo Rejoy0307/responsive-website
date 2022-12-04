@@ -134,7 +134,7 @@ a {
 }
 
 .left-body-button {
-  margin: 20px 0px 0px;
+  margin: 20px 0px 10px;
   display: flex;
   align-items: center;
 }
@@ -213,4 +213,25 @@ a {
 
 .community-btn {
   padding-left: 30px;
+}
+
+.footer-f {
+  padding: 60px 0px;
+  line-height: 1;
+}
+
+.footer-img {
+  margin-bottom: 12px;
+}
+
+.p-general {
+  font-size: 14px;
+  border-bottom: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #4a4a4a;
+}
+
+.p-general:hover {
+  text-decoration: none;
 }
