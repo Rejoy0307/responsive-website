@@ -176,3 +176,41 @@ a {
   margin-top: 15px;
   padding: 0px 15px;
 }
+
+.community-build-list {
+  margin-top: 60px;
+}
+
+.community-content {
+  background-color: #d5eff7;
+  border-radius: 10px;
+}
+
+.community-left {
+  padding: 50px;
+}
+
+.community-full-content {
+  display: flex;
+}
+
+.community-left-img {
+  padding-left: 30px;
+  margin-bottom: 20px;
+}
+
+.community-head {
+  padding-left: 30px;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.community-content {
+  padding-left: 30px;
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+.community-btn {
+  padding-left: 30px;
+}
